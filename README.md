@@ -1,6 +1,6 @@
 <h1>Hi, I'm Davin! <br/><a href="https://github.com/davinwinchell">
 
-  <a href="www.linkedin.com/in/davin-winchell-a1b4bb191"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/davin-winchell-a1b4bb191"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Objective
 
