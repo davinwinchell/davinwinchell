@@ -4,7 +4,7 @@
 
 # Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey into computer science has become a career goal. This is my portfolio of projects documenting my path to gain experience and have some fun learning more about a wide variety of IT subjects. My immediate goal is to start a career as soon as possible in a related field.
 
 
 <h2>👨‍💻 Home Lab Projects:</h2>
@@ -26,13 +26,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+![Static Badge](https://img.shields.io/badge/CompTIA%20A%2B-red)
+![Static Badge](https://img.shields.io/badge/Google%20Cybersecurity-blue)
+![Static Badge](https://img.shields.io/badge/Johns%20Hopkins%20Healthcare%20IT%20Support-purple)
 </div>
+
+![Static Badge](https://img.shields.io/badge/CompTIA%20Network%2B-red) (in progress)
+
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
