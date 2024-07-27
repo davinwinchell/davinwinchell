@@ -2,12 +2,16 @@
 
   <a href="https://www.linkedin.com/in/davin-winchell-a1b4bb191"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+# Introduction
+
+After spending 10 years in retail management, I am ready to begin a new career in the IT space.
+
 # Objective
 
-My journey into computer science has become a career goal. This is my portfolio of projects documenting my path to gain experience and have some fun learning more about a wide variety of IT subjects. My immediate goal is to start a career as soon as possible in a related field.
+My journey into computer science has transformed from a hobby into a passion. These projects will document my journey, my learned experience, and my joy as I dive into the IT world. 
 
 
-<h2>👨‍💻 Home Lab Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
