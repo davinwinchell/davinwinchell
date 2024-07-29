@@ -11,7 +11,7 @@ After spending 10 years in retail management, I am ready to begin a new career i
 My journey into computer science has transformed from a hobby into a passion. These projects will document my journey, my learned experience, and my joy as I dive into the IT world. 
 
 # Projects
-  - Active Directory Lab
+  - [Active Directory Lab](https://github.com/davinwinchell/Active-Directory-Lab)
 
 ## Certifications
 ![Static Badge](https://img.shields.io/badge/CompTIA%20A%2B-red)
