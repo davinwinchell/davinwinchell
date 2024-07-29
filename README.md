@@ -12,9 +12,6 @@ My journey into computer science has transformed from a hobby into a passion. Th
 
 # Projects
   - Active Directory Lab
-  - Azure Sentinel w/ Virtual Machine
-  - SQL
-
 
 ## Certifications
 ![Static Badge](https://img.shields.io/badge/CompTIA%20A%2B-red)
