@@ -13,7 +13,7 @@ My journey into computer science has transformed from a hobby into a passion. Th
 # Projects
   - [Active Directory Lab](https://github.com/davinwinchell/Active-Directory-Lab)
   - [Home Networking Lab](https://github.com/davinwinchell/Home-Network-Lab/)
-  - [Azure Cloud and SIEM Tools](https://github.com/davinwinchell)
+  - [Azure Cloud and SIEM Tools (in progress)](https://github.com/davinwinchell)
 
 ## Certifications
 ![Static Badge](https://img.shields.io/badge/CompTIA%20A%2B-red)
